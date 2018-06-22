@@ -1,0 +1,1 @@
+Use the `src` folder for R and Rmd scripts. 
