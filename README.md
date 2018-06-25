@@ -1,4 +1,4 @@
-# Invasive species R exercise
+# Invasive species exercise
 
 Welcome!
 
