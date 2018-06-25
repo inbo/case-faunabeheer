@@ -1,4 +1,4 @@
-# Invasive species exercise
+# Cameratrap observations exercise
 
 Welcome!
 
