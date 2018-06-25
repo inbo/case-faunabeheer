@@ -4,6 +4,8 @@ Welcome!
 
 Tomorrow you have to report to the project partners the preliminar results of the camera trap study at Hoge Kempen, in collaboration with UHasselt. 
 
+![roe deer](img/roe_deer.png)
+
 The annotations of the photos were done using the [Agouti camera trap management tool](https://www.agouti.eu/) and an export of the database containing the observations has been provided to you as a file [`observations.csv`](data/observations.csv). The data file contains information about the moment of the observation/photo(s) (`observationTimestamp`), the animal on the photo (`animal*`, e.g. `animalVernacularName`, `animalCount`,...) and the deployment of the camera, i.e. the period (`deploymentStart`/`deploymentEnd`) and location (`deploymentLatitude`/`deploymentLongitude`) of the camera.
 
 In order to do to, you have to provide the following outputs:
